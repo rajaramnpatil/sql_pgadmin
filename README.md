@@ -30,6 +30,9 @@ sql_pgadmin/
 ├── .gitignore
 ├── requirements.txt
 ├── main.py
+├── app/
+│   └── operations/
+│       └── __init__.py
 ├── templates/
 │   └── index.html
 ├── sql/
